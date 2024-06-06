@@ -2,21 +2,62 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 23%
+    right: 68%
+    width: 100px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 15%
+    right: 22%
+    width: 100px
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/mini-portada.png") !important
+  background-repeat: no-repeat
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem  
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario  
+
+.fondo-completo
+  //background-image: url("../assets/curso/temas/t1/fondo.png")
+  background-position: center bottom
+  background-size: 100% 88%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+.fondo-t1
+  background-image: url("../assets/curso/temas/t1/fondo-bloque.png") 
+  background-position: center
+  background-repeat: no-repeat
+  background-size: cover  
+.fondo-t4
+  background: #7D6EB2
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem 
+.fondo-t6
+  background: #7D6EB2
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem 
+
 
 .bg1
   background-color: #AEE6E6 
@@ -24,5 +65,21 @@
   background-color: #EFFAF4 
 .bg3
   background-color: #7D6EB2 !important
+.bg4
+  background-color: #E7F8F8 !important
 .tarjeta--blanca
   background-color: #FFFFFF 
+
+.color-sistema
+  color: $color-sistema-texto  !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+  background-color: #FFD947
+  opacity: 0.9
+.slyder-a__bullets__item
+  background-color: #FFF2BF
+  border-color: #FFF2BF
+.slyder-a__bullets__item--active 
+  background-color: #FFD947
+  border-color: #FFD947
+  opacity: 1

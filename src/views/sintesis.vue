@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-11.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama de flujo presenta el contenido del componente formativo, poniendo especial énfasis en conceptos y temas más importantes.")
       .col-auto
