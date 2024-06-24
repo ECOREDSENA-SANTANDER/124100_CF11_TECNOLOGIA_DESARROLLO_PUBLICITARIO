@@ -34,14 +34,14 @@
                     figcaption Figura 22. Líneas de corte y doblado
               .row.justify-content-around.align-items-center
                 .col-md-6.mb-4.mb-md-0
-                  p Desde el diseño se le han definido las líneas por donde debe doblarse y cortarse la caja, ahora, se debe crear un sangrado para evitar que el corte quede en extremo pegado de los bordes del diseño (figura 22).
+                  p Desde el diseño se le han definido las líneas por donde debe doblarse y cortarse la caja, ahora, se debe crear un sangrado para evitar que el corte quede en extremo pegado de los bordes del diseño (figura 23).
                 .col-md-5
                   figure
                     img(src='@/assets/curso/temas/t6/imag02.svg', alt='La figura presenta el diseño de una caja en la que se han marcado las líneas  por donde debe doblarse y a la derecha la pantalla del computador resaltando la opción de trazo')
                     figcaption Figura 23. Sangrado
               .row.justify-content-around.align-items-center
                 .col-md-5.mb-4.mb-md-0
-                  p Para esto, se debe agregar un nuevo contorno al diseño con un pequeño desplazamiento, haciendo clic en Nuevo Trazado - Efectos (Fx de la ventana Apariencia) - Desplazamiento.
+                  p Para esto, se debe agregar un nuevo contorno al diseño con un pequeño desplazamiento, haciendo clic en #[B Nuevo Trazado - Efectos (Fx de la ventana Apariencia) - Desplazamiento].
                   p Se pueden usar los valores predeterminados o modificar según sea el caso (figura 24).
                 .col-md-6
                   figure
@@ -49,7 +49,7 @@
                     figcaption Figura 24. Desplazamiento
               .row.justify-content-around.align-items-center
                 .col-md-6.mb-4.mb-md-0
-                  p PPara definir este nuevo trazo como sangrado, se requiere que tenga el mismo diseño que el modelo (figura 29); es decir, el mismo patrón decorativo definido para “adornarla”. Para esto, se debe proceder a convertir este nuevo trazado en un objeto independiente en la ruta: #[b Objeto - Expandir apariencia - Desagrupar] y a continuación copiar el mismo relleno del patrón mencionado anteriormente.
+                  p Para definir este nuevo trazo como sangrado, se requiere que tenga el mismo diseño que el modelo (figura 25); es decir, el mismo patrón decorativo definido para “adornarla”. Para esto, se debe proceder a convertir este nuevo trazado en un objeto independiente en la ruta: #[b Objeto - Expandir apariencia - Desagrupar] y a continuación copiar el mismo relleno del patrón mencionado anteriormente.
                   p Ahora el diseño del patrón decorativo se extiende fuera de la primera margen para lograr que al cortar no se pierdan detalles de este.
                 .col-md-3
                   figure

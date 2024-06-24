@@ -9,8 +9,8 @@
     
     .row.mb-4
       .col-lg-7(data-aos="fade-right")
-        p Para realizar impresiones de piezas gráficas, el archivo recomendado será siempre el PDF, este suele ser el favorito teniendo en cuenta que impide que se realicen cambios en textos y tamaños cuando se abre en otro equipo; sin embargo, Adobe Illustrator ofrece una excelente opción para tomar todos los elementos que componen un diseño (imágenes, tipografías, etc.) por medio de la opción Empaquetar.
-        p.mb-4 Así, la opción Archivo - Empaquetar le ofrece la posibilidad de recopilar todo lo que incluyó en el diseño y crear un archivo completo en caso de que deba enviar el archivo fuente.
+        p Para realizar impresiones de piezas gráficas, el archivo recomendado será siempre el PDF, este suele ser el favorito teniendo en cuenta que impide que se realicen cambios en textos y tamaños cuando se abre en otro equipo; sin embargo, Adobe Illustrator ofrece una excelente opción para tomar todos los elementos que componen un diseño (imágenes, tipografías, etc.) por medio de la opción #[b Empaquetar].
+        p.mb-4 Así, la opción #[b Archivo - Empaquetar] le ofrece la posibilidad de recopilar todo lo que incluyó en el diseño y crear un archivo completo en caso de que deba enviar el archivo fuente.
         .row
           .col-lg-8.col-md-8
             figure

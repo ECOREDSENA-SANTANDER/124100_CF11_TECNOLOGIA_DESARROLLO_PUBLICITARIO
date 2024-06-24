@@ -14,7 +14,7 @@
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-check-circle
-            | Seleccionar el Texto y hacer clic derecho, activar Crear contornos o por el panel Texto - Crear contornos (figura 20).
+            span.mb-0 Seleccionar el #[b Texto] y hacer clic derecho, activar #[b Crear contornos] o por el panel #[b Texto - Crear contornos] (figura 20).
       .col-lg-4.col-md-7.d-none.d-lg-flex(data-aos="fade-left")
         img(src='@/assets/curso/temas/t5/imag01.png', alt='')
     
@@ -29,7 +29,7 @@
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-check-circle
-            | Así, el texto ya no será un elemento editable por medio de la herramienta de Texto sino, un vector.
+            span.mv-0 Así, el texto ya no será un elemento editable por medio de la herramienta de #[b Texto] sino, un vector.
           li 
             i.fas.fa-check-circle
             | Si por algún motivo no se realiza esta conversión en contornos, se debe conservar una carpeta con las fuentes utilizadas para enviarlas a las empresas donde estén realizando las impresiones y ser instaladas allí, esto como último recurso.

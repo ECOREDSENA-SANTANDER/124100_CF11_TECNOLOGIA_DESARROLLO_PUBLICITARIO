@@ -34,7 +34,7 @@
       .col-lg-4.col-md-9.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/t2/imag01.svg', alt='La figura presenta en la parte superior sobre fondo azul, dos cuadrados,  el primero de color fucsia y el segundo de color morado y en la parte inferior imagines de dichos  cuadrados en los que con línea punteada se indica que se levanta el cuadrado del centro.')
-          figcaption Figura 1 Reserva y sobreimpresión
+          figcaption Figura 1. Reserva y sobreimpresión
       .col-lg-8(data-aos="fade-left")
         .bg2.p-4
           h5.mb-1 Sobreimpresión: 
@@ -51,7 +51,7 @@
       .col-lg-7(data-aos="fade-right")
         #t_2_2_2.titulo-segundo.color-acento-contenido
           h2 2.2.2 La reserva
-        p En la misma figura 5, pero en “reserva”, el objeto tendrá el color que se le ha asignado en el diseño digital sin alterarse el color, debido a que será impreso directamente en el papel en blanco porque se ha reservado el espacio para dicho fin.
+        p En la misma figura 2, pero en “reserva”, el objeto tendrá el color que se le ha asignado en el diseño digital sin alterarse el color, debido a que será impreso directamente en el papel en blanco porque se ha reservado el espacio para dicho fin.
         p En los programas actuales las reservas se crean por defecto facilitando el proceso de preprensa. Crear reservas es muy conveniente porque la superposición genera colores indeseados; sin embargo, la sobreimpresión puede utilizarse como un recurso para crear efectos especiales de mezcla o para evitar la aparición de huecos entre colores u objetos debidos a la falta de registro.
       .col-lg-5(data-aos="fade-left")
         .row.justify-content-center
@@ -61,18 +61,18 @@
               figcaption Figura 2. Reserva y sobreimpresión en impresos
     
     #t_2_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2.3 El trapping o reventado
+      h2 2.2.3 El #[em trapping] o reventado
     
     .row.align-items-center.mb-5
       .col-lg-5.mb-4(data-aos="fade-right")
         .row.justify-content-center
-          .col-md-9
+          .col-md-11
             figure
               img(src='@/assets/curso/temas/t2/imag03.svg', alt='La figura presenta, en la parte superior dos cuadrados  de color  fucsia sobre fondo azul en los que se indica con un circulo en la esquina superior izquierda la alineación de colores y en la parte inferior dos cuadraos indicando con línea punteada la elevación de los cuadrados centrales.')
-              figcaption Figura 3. Trapping
+              figcaption Figura 3. #[em Trapping]
       .col-lg-7.mb-4(data-aos="fade-left")
         p Para el proceso de impresión es necesario alinear los colores separados CMYK, a través de guías de registro para que estas no queden movidas en el resultado final. Si alguna de ellas queda fuera de registro aparecerán huecos entre los objetos de color o sitios en los que un color de cuatricromía queda movido y no fundido con los demás.
-        p Para minimizar estos defectos de registro, existe la técnica del trapping o reventado en la que los colores se ubican en orden y se imprimen uno sobre el otro para garantizar que queden alineados.
+        p Para minimizar estos defectos de registro, existe la técnica del #[em trapping] o reventado en la que los colores se ubican en orden y se imprimen uno sobre el otro para garantizar que queden alineados.
         p En este proceso pueden cambiar los tamaños de cada separación de color, efecto que se hace más evidente en objetos más pequeños, para ello se ajustan los tamaños y estos se igualan para garantizar la unificación de tamaños.
       
     p.mb-4(data-aos="fade") Este proceso es fácil de realizar en Adobe Illustrator, para lo cual se deben seguir estos pasos:
@@ -82,12 +82,12 @@
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-check-circle
-            span.mb-0 Ubicar y seleccionar los dos elementos a los cuales desea aplicar el trapping o reventado: Hacer clic en #[b Buscatrazos - Menú desplegable - Reventar.]
+            span.mb-0 Ubicar y seleccionar los dos elementos a los cuales desea aplicar el #[em trapping] o reventado: Hacer clic en #[b Buscatrazos - Menú desplegable - Reventar.]
         .row.justify-content-center
           .col-md-10
             figure
               img(src='@/assets/curso/temas/t2/imag04.svg', alt='La imagen representa  una pantalla de computador  con fondo totalmente fucsia, en la que se resalta la pestaña de Buscatrazos')
-              figcaption Figura 4. Trapping en AI
+              figcaption Figura 4. #[em Trapping] en AI
       .col-lg-6.mb-4(data-aos="fade-left")
         ul.lista-ul--color.fa-ul.color-primario
           li 
@@ -97,7 +97,7 @@
           .col-md-8
             figure
               img(src='@/assets/curso/temas/t2/imag05.svg', alt='La figura presenta la pantalla del computador  en color fucsia con borde superior e izquierdo azul, con una ventana de ajustes desplegada')
-              figcaption Figura 5. Opciones trapping
+              figcaption Figura 5. Opciones #[em trapping]
     
     p.mb-4(data-aos="fade") Es importante resaltar que para aplicar este filtro en Adobe Illustrator el texto debe estar convertido en contornos.
 
@@ -105,7 +105,7 @@
       .col-lg-6.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/t2/imag06.svg', alt='La imagen representa dos cuadrados de color azul ordenados horizontalmente:  En el  primero sobrepuesto en el extremo inferior derecho un cuadrado de color fucsia y en el segundo sobrepuesto en el extremo inferior derecho un rectángulo de color fucsia.')
-          figcaption Figura 6. Efectos trapping
+          figcaption Figura 6. Efectos #[em trapping]
       .col-lg-6.mb-4(data-aos="fade-left")
         .row.justify-content-center
           .col-md-9
@@ -130,7 +130,7 @@
 
     .row.justify-content-between
       .col-lg-5.mb-4(data-aos="fade-right")
-        p A continuación, los elementos que llevará el barniz deben ser convertidos a un color uniforme: creando una nueva muestra en el panel de muestras. 
+        p A continuación, los elementos que llevará el barniz deben ser convertidos a un color uniforme: creando una nueva muestra en el panel de #[b muestras]. 
         p Ahora, se debe marcar el tipo de color como tinta plana y el modo de color como CMYK y el nombre de la nueva muestra como “Color UV” para identificarlo fácilmente. Luego, se debe seleccionar el color que se quiere siempre y cuando sea un color al 100%, sin mezclas; por ejemplo, 100% cian o 100% magenta.
         figure
           img(src='@/assets/curso/temas/t2/imag09.png', alt='La imagen representa una pantalla de computador con dos menús desplegados, uno de ellos, una paleta de colores.')

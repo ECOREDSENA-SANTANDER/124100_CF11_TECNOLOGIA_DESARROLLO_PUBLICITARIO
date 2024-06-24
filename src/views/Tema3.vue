@@ -12,7 +12,7 @@
     .row.justify-content-end.mb-4(data-aos="fade-down")
       .col-lg-11
         .cajon.color-secundario.bg4.p-4
-          p.mb-0 El sangrado es un área de seguridad que se debe añadir a cualquier diseño que tenga como finalidad una impresión y se realiza agregando unos milímetros a su tamaño; esto se hace para evitar que al cortar con la guillotina queden partes blancas en algún lado de la impresión dañando su estética. Por ejemplo, si el diseño en cuestión es un brochure, cuyo tamaño final será 15 x 10 cm, el tamaño que se debe mandar a imprenta debe ser 15,6 x 10,6 cm; de ese modo, se estará ampliando el diseño 3 mm por cada lado. Esos 3 mm serán el sangrado de diseño. 
+          p.mb-0 El sangrado es un área de seguridad que se debe añadir a cualquier diseño que tenga como finalidad una impresión y se realiza agregando unos milímetros a su tamaño; esto se hace para evitar que al cortar con la guillotina queden partes blancas en algún lado de la impresión dañando su estética. Por ejemplo, si el diseño en cuestión es un #[em brochure], cuyo tamaño final será 15 x 10 cm, el tamaño que se debe mandar a imprenta debe ser 15,6 x 10,6 cm; de ese modo, se estará ampliando el diseño 3 mm por cada lado. Esos 3 mm serán el sangrado de diseño. 
     
     p.mb-4(data-aos="fade") Por ejemplo:
 
