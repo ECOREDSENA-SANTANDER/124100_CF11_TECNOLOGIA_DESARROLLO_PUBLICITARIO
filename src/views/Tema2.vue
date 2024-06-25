@@ -45,7 +45,7 @@
     #t_2_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2.1. La sobreimpresión
     
-    p.mb-5(data-aos="fade") Como se observa en la figura 1, en la parte de “sobreimpresión”, el objeto del primer plano se imprime sobre el objeto de fondo generando un nuevo color debido a la mezcla de las tintas de los dos objetos que se superponen. Ahora bien, la sobreimpresión se realiza sobre los objetos de fondo; por lo tanto, se imprime una tinta sobre otra.
+    p.mb-5(data-aos="fade") Como se presenta en la figura 1, en la parte de “sobreimpresión”, el objeto del primer plano se imprime sobre el objeto de fondo generando un nuevo color debido a la mezcla de las tintas de los dos objetos que se superponen. Ahora bien, la sobreimpresión se realiza sobre los objetos de fondo; por lo tanto, se imprime una tinta sobre otra.
         
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -104,7 +104,7 @@
     .row
       .col-lg-6.mb-4(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/t2/imag06.svg', alt='La imagen representa dos cuadrados de color azul ordenados horizontalmente:  En el  primero sobrepuesto en el extremo inferior derecho un cuadrado de color fucsia y en el segundo sobrepuesto en el extremo inferior derecho un rectángulo de color fucsia.')
+          img(src='@/assets/curso/temas/t2/fig6.svg', alt='La imagen representa dos cuadrados de color azul ordenados horizontalmente:  En el  primero sobrepuesto en el extremo inferior derecho un cuadrado de color fucsia y en el segundo sobrepuesto en el extremo inferior derecho un rectángulo de color fucsia.')
           figcaption Figura 6. Efectos #[em trapping]
       .col-lg-6.mb-4(data-aos="fade-left")
         .row.justify-content-center

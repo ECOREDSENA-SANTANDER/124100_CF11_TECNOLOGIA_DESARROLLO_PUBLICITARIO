@@ -22,7 +22,7 @@
           img(src='@/assets/curso/temas/t3/imag01.png', alt='La imagen representa un rectángulo con un borde de color  fucsia.')
           figcaption Figura 10. Sangría
       .col-lg-5.mb-4(data-aos="fade-left")
-        p Como se ve en la figura 10, el área en color magenta es el sangrado del documento y corresponde a una zona de 3 mm por cada lado, fuera del diseño final; es decir, estos 3 mm se perderán cuando se haga el corte en la guillotina con lo que se garantizará que no haya bordes blancos en la impresión final.
+        p Como se presenta en la figura 10, el área en color magenta es el sangrado del documento y corresponde a una zona de 3 mm por cada lado, fuera del diseño final; es decir, estos 3 mm se perderán cuando se haga el corte en la guillotina con lo que se garantizará que no haya bordes blancos en la impresión final.
     
 
     Separador
@@ -37,7 +37,7 @@
           img(src='@/assets/curso/temas/t3/imag02.svg', alt='La imagen representa dos recuadros en los que se indica, en el primero cómo no debe hacerse una sangría y en el segundo cómo sí debe hacerse.')
           figcaption Figura 11. Uso correcto de sangría
       .col-lg-5.mb-4(data-aos="fade-left")
-        p En la parte izquierda de la figura 11 donde está la palabra NO se puede ver que la foto (área en color gris) llega justo al borde del diseño sin ocupar el área de sangrado; en ese caso está mal aplicado el sangrado y es lo que posteriormente causará problemas en el corte final. En la parte derecha (SÍ) se ve la manera correcta de utilizar el sangrado, es decir se lleva la imagen hasta el borde y el diseño hasta el área de sangrado y, de ese modo, cuando se corte por la línea negra será imposible que queden bordes blancos.
+        p En la parte izquierda de la figura 11 donde está la palabra NO, se detalla que la foto (área en color gris) llega justo al borde del diseño sin ocupar el área de sangrado; en ese caso está mal aplicado el sangrado y es lo que posteriormente causará problemas en el corte final. En la parte derecha (SÍ) se presenta la manera correcta de utilizar el sangrado, es decir se lleva la imagen hasta el borde y el diseño hasta el área de sangrado y, de ese modo, cuando se corte por la línea negra será imposible que queden bordes blancos.
     
 
     Separador
@@ -46,7 +46,7 @@
     
     p(data-aos="fade") No hay una medida estándar para tal fin; sin embargo, lo habitual es dejar 2 o 3 mm que son suficientes en la mayoría de los casos; para trabajos que requieran troquelado, se suelen dejar entre 5 y 10 mm.
     p(data-aos="fade") El sangrado es un fundamento de preimpresión que debe conocer todo diseñador y aplicarlo correctamente ahorrará problemas y dolores de cabeza, tanto con la imprenta como con los clientes. 
-    p.mb-4(data-aos="fade") Además, se puede determinar un área de sangrado para una pieza completa, desde que se configure el documento como se muestra en la siguiente figura.
+    p.mb-4(data-aos="fade") Además, se puede determinar un área de sangrado para una pieza completa, desde que se configure el documento como se presenta en la siguiente figura.
     
     figure.mb-5(data-aos="fade-down")
       img(src='@/assets/curso/temas/t3/imag03.png', alt='La imagen presenta pantalla de un computador con varios iconos, en el que se resaltan las áreas de sangrado.')

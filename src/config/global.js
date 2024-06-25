@@ -241,8 +241,7 @@ export default {
     {
       referencia:
         'El estudio. (2018). Cómo preparar un arte final antes de enviar a imprenta.',
-      link:
-        ' https://elestudio.com/como-preparar-un-arte-final-antes-de-enviar-imprenta',
+      link: ' https://elestudio.com/como-preparar-un-arte-final/',
     },
     {
       referencia:

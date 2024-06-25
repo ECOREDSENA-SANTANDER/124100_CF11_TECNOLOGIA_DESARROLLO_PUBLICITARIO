@@ -18,7 +18,7 @@
             SlyderA(tipo="b" data-aos="fade-down")
               .row.justify-content-around.align-items-center
                 .col-md-6.mb-4.mb-md-0
-                  p Para comprender mejor esta parte del arte final, se muestra un ejemplo con un empaque sencillo, al cual se deberá aplicar troquel y líneas guía de corte y doblado.
+                  p Para comprender mejor esta parte del arte final, se presenta un ejemplo con un empaque sencillo, al cual se deberá aplicar troquel y líneas guía de corte y doblado.
                 .col-md-3
                   figure
                     img(src='@/assets/curso/temas/t6/imag01.svg', alt='La figura presenta el diseño  de  una caja.')
