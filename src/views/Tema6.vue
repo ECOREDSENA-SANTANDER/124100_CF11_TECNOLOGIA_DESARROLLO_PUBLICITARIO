@@ -30,7 +30,7 @@
                   p Doblado: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _    
                 .col-md-3
                   figure
-                    img(src='@/assets/curso/temas/t6/imag01.svg', alt='')
+                    img(src='@/assets/curso/temas/t6/imag01.svg', alt='La figura presenta la misma caja de la figura anterior, pero con líneas punteadas entre vértices, por donde se deben realizar las dobleces.')
                     figcaption Figura 22. Líneas de corte y doblado
               .row.justify-content-around.align-items-center
                 .col-md-6.mb-4.mb-md-0

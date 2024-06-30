@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Artefinalización de piezas gráficas',
+    componenteFormativo: 'Arte finalización de piezas gráficas',
     descripcionCurso:
       'El arte final en diseño es el proceso de revisión y preparación de un trabajo gráfico para enviarlo correctamente a la imprenta. Es un paso previo a la impresión y reproducción de cualquier encargo gráfico. De un arte final bien realizado, dependerá el resultado bueno o malo del proyecto (Adesing Perú, s.f.).',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'El artefinalizado',
+        titulo: 'El arte finalizado',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -192,7 +192,7 @@ export default {
         'En aplicaciones de dibujo, es una línea curva entre dos puntos de control. Cada punto es una pequeña base de datos, o vector, que almacena información como su grosor, color, medida y dirección.',
     },
     {
-      termino: 'Diseño ',
+      termino: 'Diseño',
       significado:
         'Actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos.',
     },
