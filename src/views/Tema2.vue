@@ -19,8 +19,8 @@
 
     figure.mb-4(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Gz50kdbXpKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Colores De Impresión Final
     
 
     Separador
@@ -42,15 +42,15 @@
           h5.mb-1 Reserva: 
           p.mb-0 Dejar un hueco con la forma que identifica a ese objeto e imprimirlo sobre el espacio en blanco en el área vacía, esta es la reserva (figura 1).
     
-    #t_2_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2.1. La sobreimpresión
+    .titulo-tercer(data-aos="fade-right")
+      h3 La sobreimpresión
     
     p.mb-5(data-aos="fade") Como se presenta en la figura 1, en la parte de “sobreimpresión”, el objeto del primer plano se imprime sobre el objeto de fondo generando un nuevo color debido a la mezcla de las tintas de los dos objetos que se superponen. Ahora bien, la sobreimpresión se realiza sobre los objetos de fondo; por lo tanto, se imprime una tinta sobre otra.
         
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
-        #t_2_2_2.titulo-segundo.color-acento-contenido
-          h2 2.2.2 La reserva
+        .titulo-tercer
+          h3 La reserva
         p En la misma figura 2, pero en “reserva”, el objeto tendrá el color que se le ha asignado en el diseño digital sin alterarse el color, debido a que será impreso directamente en el papel en blanco porque se ha reservado el espacio para dicho fin.
         p En los programas actuales las reservas se crean por defecto facilitando el proceso de preprensa. Crear reservas es muy conveniente porque la superposición genera colores indeseados; sin embargo, la sobreimpresión puede utilizarse como un recurso para crear efectos especiales de mezcla o para evitar la aparición de huecos entre colores u objetos debidos a la falta de registro.
       .col-lg-5(data-aos="fade-left")
@@ -60,8 +60,8 @@
               img(src='@/assets/curso/temas/t2/imag02.svg', alt='La imagen presenta figuras impresas   indicando la reserva y la sobreimpresión')
               figcaption Figura 2. Reserva y sobreimpresión en impresos
     
-    #t_2_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2.3 El #[em trapping] o reventado
+    .titulo-tercer(data-aos="fade-right")
+      h3 El #[em trapping] o reventado
     
     .row.align-items-center.mb-5
       .col-lg-5.mb-4(data-aos="fade-right")
