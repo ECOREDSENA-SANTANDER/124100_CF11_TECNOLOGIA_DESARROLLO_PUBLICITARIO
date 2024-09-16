@@ -147,7 +147,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF11_124100_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -265,12 +265,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -280,39 +280,39 @@ export default {
       autores: [
         {
           nombre: 'Manuel Augusto Arias López',
-          cargo: 'Instructor - Experto temático ',
+          cargo: 'Instructor - experto temático',
           centro: 'Regional Quindío - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Andrea Velásquez Torres',
-          cargo: 'Apoyo Experto Temático',
+          cargo: ' Apoyo experto temático',
           centro: 'Regional Quindío - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Vilma Perilla Méndez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Diseñador Instruccional',
+          cargo: 'Diseñador instruccional',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor Pedagógico',
+          cargo: 'Asesor pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de Estilo',
+          cargo: 'Corrector de estilo',
           centro:
             'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -322,17 +322,17 @@ export default {
       autores: [
         {
           nombre: 'Julian Fernando Vanegas Vega',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>Fullstack</em>',
+          cargo: 'Desarrolladora <em>fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -342,17 +342,17 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
