@@ -131,7 +131,7 @@
     .row.justify-content-between
       .col-lg-5.mb-4(data-aos="fade-right")
         p A continuación, los elementos que llevará el barniz deben ser convertidos a un color uniforme: creando una nueva muestra en el panel de #[b muestras]. 
-        p Ahora, se debe marcar el tipo de color como tinta plana y el modo de color como CMYK y el nombre de la nueva muestra como “Color UV” para identificarlo fácilmente. Luego, se debe seleccionar el color que se quiere siempre y cuando sea un color al 100%, sin mezclas; por ejemplo, 100% cian o 100% magenta.
+        p Ahora, se debe marcar el #[b tipo de color] como #[b tinta plana] y el #[b modo de color] como CMYK y el nombre de la nueva muestra como “#[b Color UV]” para identificarlo fácilmente. Luego, se debe seleccionar el color que se quiere siempre y cuando sea un color al 100%, sin mezclas; por ejemplo, 100% cian o 100% magenta.
         figure
           img(src='@/assets/curso/temas/t2/imag09.png', alt='La imagen representa una pantalla de computador con dos menús desplegados, uno de ellos, una paleta de colores.')
           figcaption Figura 8. Color UV

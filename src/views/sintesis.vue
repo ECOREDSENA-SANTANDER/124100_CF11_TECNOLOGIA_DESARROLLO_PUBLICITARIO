@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    p.mb-4 El diagrama a continuación, presenta los temas y subtemas que se trabajan en este componente, además de su relación y los conceptos más importantes.
+    p.mb-4 Un proyecto de diseño es tan bueno o malo como su arte final lo sea, este es un paso obligado antes de enviar a impresión. En el siguiente cuadro se presenta en contenido del componente formativo, donde se enuncian los elementos que se deben tener en cuenta para realizar un buen artefinalizado y algunas de las características más importantes de ellos. 
 
     .row.justify-content-center
       .col-lg-11.mb-5
