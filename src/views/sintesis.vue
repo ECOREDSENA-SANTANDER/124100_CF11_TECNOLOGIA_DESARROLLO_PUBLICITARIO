@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-11.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama de flujo presenta el contenido del componente formativo, poniendo especial énfasis en conceptos y temas más importantes.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En el diagrama se presenta el contenido del componente, detallando conceptos y procesos claves del proceso de artefinalizado, como lo son: los colores de impresión, las características de sangrado, la resolución de las imágenes, las tipografías y los troqueles.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
