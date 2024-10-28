@@ -23,12 +23,12 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      /*{
+      {
         nombreRuta: 'introduccion',
         icono: 'fas fa-info-circle',
         titulo: 'Introducción',
         desarrolloContenidos: true,
-      },*/
+      },
       {
         nombreRuta: 'tema1',
         numero: '1',
@@ -327,7 +327,7 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>fullstack</em>',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

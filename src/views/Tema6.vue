@@ -49,7 +49,7 @@
                     figcaption Figura 24. Desplazamiento
               .row.justify-content-around.align-items-center
                 .col-md-6.mb-4.mb-md-0
-                  p Para definir este nuevo trazo como sangrado, se requiere que tenga el mismo diseño que el modelo (figura 25); es decir, el mismo patrón decorativo definido para “adornarla”. Para esto, se debe proceder a convertir este nuevo trazado en un objeto independiente en la ruta: #[b Objeto - Expandir apariencia - Desagrupar] y a continuación copiar el mismo relleno del patrón mencionado anteriormente.
+                  p Para definir este nuevo trazo como sangrado, se requiere que tenga el mismo diseño que el modelo (figura 25); es decir, el mismo patrón decorativo definido para “adornarla”. Para esto, se debe proceder convertir este nuevo trazado en un objeto independiente en la ruta: #[b Objeto - Expandir apariencia - Desagrupar] y a continuación copiar el mismo relleno del patrón mencionado anteriormente.
                   p Ahora el diseño del patrón decorativo se extiende fuera de la primera margen para lograr que al cortar no se pierdan detalles de este.
                 .col-md-3
                   figure

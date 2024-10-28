@@ -46,7 +46,7 @@
     
     p(data-aos="fade") No hay una medida estándar para tal fin; sin embargo, lo habitual es dejar 2 o 3 mm que son suficientes en la mayoría de los casos; para trabajos que requieran troquelado, se suelen dejar entre 5 y 10 mm.
     p(data-aos="fade") El sangrado es un fundamento de preimpresión que debe conocer todo diseñador y aplicarlo correctamente ahorrará problemas y dolores de cabeza, tanto con la imprenta como con los clientes. 
-    p.mb-4(data-aos="fade") Además, se puede determinar un área de sangrado para una pieza completa, desde que se configure el documento como se presenta en la siguiente figura.
+    p.mb-4(data-aos="fade") Además, se puede determinar un área de sangrado para una pieza completa, desde que se configure el documento, como se presenta en la siguiente figura.
     
     figure.mb-5(data-aos="fade-down")
       img(src='@/assets/curso/temas/t3/imag03.png', alt='La imagen presenta pantalla de un computador con varios iconos, en el que se resaltan las áreas de sangrado.')

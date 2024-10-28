@@ -25,7 +25,7 @@
         #t_1_1.titulo-segundo.color-acento-contenido
           h2 1.1 ¿Qué es el arte finalizado?
         p El llamado arte final en el diseño gráfico es un proceso que implica la revisión y la preparación de las piezas gráficas para el envío a los diferentes sistemas de impresión y de exposición en medios.
-        p En la actualidad, el proceso de arte finalizado se realiza en métodos de impresión “directos a plancha” o CTP, como el formato PDF de Adobe, que es un formato digital que ya está listos para su envío a la imprenta, sin la necesidad de realizar retoques y otro tipo de intervenciones.
+        p En la actualidad, el proceso de arte finalizado se realiza en métodos de impresión “directos a plancha” o CTP, como el formato PDF de Adobe, que es un formato digital que ya está listo para su envío a la imprenta, sin la necesidad de realizar retoques y otro tipo de intervenciones.
         p Estos formatos han simplificado el envío de archivos gráficos a las empresas de impresión y el proceso de arte finalización que realiza el diseñador. Es importante entender que cada proyecto gráfico es distinto y requiere de un proceso de arte final particular, aunque existen algunas normas comunes en todos los diseños que hay que tener en cuenta antes de generar un PDF para impresión.
       .col-lg-4.col-md-6.col-10(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/imag02.png', alt='')

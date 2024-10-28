@@ -64,7 +64,7 @@
         figure
           img(src='@/assets/curso/temas/t4/imag04.png', alt='La figura presenta pantalla del computador con fotografía  de paisaje en blanco y negro en la que se resalta la opción “Luminosidad Color Lab”')
           figcaption.mb-4 Figura 17. Luminosidad #[em Color Lab]
-        p A continuación, se debe mejorar el canal “Luminosidad” con el filtro #[b Enfoque suavizado] y para ello, en la pestaña #[b Filtros] hacer clic en #[b Enfoque suavizado] para abrir el cuadro de diálogo del filtro (figura 18). 
+        p A continuación, se debe mejorar el canal “Luminosidad” con el filtro #[b Enfoque suavizado] y para ello, en la pestaña #[b Filtros], hacer clic en #[b Enfoque suavizado] para abrir el cuadro de diálogo del filtro (figura 18). 
         p Lo recomendado es aumentar la #[b Cantidad] a, por lo menos, el 110%, mantener #[b Radio] en 12.4 px y habilitar la opción #[b Quitar para desenfoque gaussiano].
       .col-lg-7(data-aos="fade-left")
         figure
