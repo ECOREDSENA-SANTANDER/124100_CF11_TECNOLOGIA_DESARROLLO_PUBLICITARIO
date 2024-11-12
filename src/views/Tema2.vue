@@ -19,8 +19,8 @@
 
     figure.mb-4(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Gz50kdbXpKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Colores De Impresión Final
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/73YbAfcYQfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Colores De Impresión Final  
     
 
     Separador
